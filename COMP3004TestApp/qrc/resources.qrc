@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="cat-img.jpeg">images/cat.jpeg</file>
+    <file alias="dog-img.jpeg">images/dog.jpeg</file>
+    <file alias="tree-img.jpg">images/tree.jpg</file>
+</qresource>
+</RCC>
